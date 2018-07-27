@@ -1,8 +1,9 @@
 
 body{
-    background-image: url("/home/pitiot/Code/theia_roleplay/img/theia_Background.png");
+    background-image: url("img/theia_Background.png");
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header{
@@ -14,7 +15,7 @@ header{
 }
 
 main{
-    
+
     .table{
         border-radius: 8px;
         background-color : rgba(138, 138, 138, 0.5);
