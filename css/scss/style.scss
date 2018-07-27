@@ -1,0 +1,28 @@
+
+body{
+    background-image: url("/home/pitiot/Code/theia_roleplay/img/theia_Background.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+header{
+    height: 250px;
+    img{
+        display: block;
+        margin: auto;
+    }
+}
+
+main{
+    
+    .table{
+        border-radius: 8px;
+        background-color : rgba(138, 138, 138, 0.5);
+        th{
+            line-height: 2;
+        }
+        td{
+            padding: 2%;
+        }
+    }
+}
